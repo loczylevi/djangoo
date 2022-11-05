@@ -48,6 +48,6 @@ betölti az adatbázisba amit csináltunk
 
 csrf token  be kell rakni
 
-itt tartok: 2022/11/03
+itt tartok: 2022/11/05
 
-https://docs.djangoproject.com/en/4.1/intro/tutorial02/
+https://docs.djangoproject.com/en/4.1/intro/tutorial03/
